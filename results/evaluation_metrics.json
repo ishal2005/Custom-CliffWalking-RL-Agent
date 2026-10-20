@@ -1,0 +1,7 @@
+{
+    "evaluation_episodes": 200,
+    "mean_reward": -13.0,
+    "std_reward": 0.0,
+    "success_rate_percent": 100.0,
+    "mean_steps": 13.0
+}

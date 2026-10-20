@@ -1,0 +1,4 @@
+learning_rate,training_episodes,evaluation_episodes,mean_reward,std_reward,success_rate_percent,mean_steps
+0.05,5000,100,-13.0,0.0,100.0,13.0
+0.1,5000,100,-13.0,0.0,100.0,13.0
+0.2,5000,100,-13.0,0.0,100.0,13.0

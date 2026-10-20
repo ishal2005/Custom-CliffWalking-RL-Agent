@@ -1,0 +1,29 @@
+[
+    {
+        "learning_rate": 0.05,
+        "training_episodes": 5000,
+        "evaluation_episodes": 100,
+        "mean_reward": -13.0,
+        "std_reward": 0.0,
+        "success_rate_percent": 100.0,
+        "mean_steps": 13.0
+    },
+    {
+        "learning_rate": 0.1,
+        "training_episodes": 5000,
+        "evaluation_episodes": 100,
+        "mean_reward": -13.0,
+        "std_reward": 0.0,
+        "success_rate_percent": 100.0,
+        "mean_steps": 13.0
+    },
+    {
+        "learning_rate": 0.2,
+        "training_episodes": 5000,
+        "evaluation_episodes": 100,
+        "mean_reward": -13.0,
+        "std_reward": 0.0,
+        "success_rate_percent": 100.0,
+        "mean_steps": 13.0
+    }
+]
